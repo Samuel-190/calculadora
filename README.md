@@ -2,7 +2,7 @@
 
 Este proyecto es de una calculadora medio basica, echa con archivos PHP interconectados con include.
 
-# 📥 Cómo instalar en tu equipo
+# 📥 Cómo instalar
 
 1. Clona el repositorio
 2. Abrelo localmente
